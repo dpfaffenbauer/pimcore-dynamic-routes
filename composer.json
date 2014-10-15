@@ -1,0 +1,19 @@
+{
+    "name": "pfaffenbauer/dynamic-routes",
+    "type": "pimcore-plugin",
+    "license": "Simple BSD",
+    "description": "Adds Dynamic Routes to Pimcore",
+    "keywords": ["pimcore","dynamic-routes","routes","dynamic"],
+    "homepage": "https://github.com/dpfaffenbauer/pimcore-dynamic-routes",
+    "authors": [
+        {
+            "name": "Dominik Pfaffenbauer",
+            "email": "dominik@pfaffenbauer.at",
+            "homepage": "http://www.pfaffenbauer.at/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+      "pimcore/installer-plugin": ">=1"
+    }
+}  
